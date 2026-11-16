@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-mint-drivers"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS mint-drivers component"
+
+[lib]
+name = "mint_drivers"
+path = "src/lib.rs"
